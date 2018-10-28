@@ -1,3 +1,7 @@
 abc// shah
 def// hussnain
+=======
+abc// syed
+def// shahrukh
+>>>>>>> testmerge1
 ghi
